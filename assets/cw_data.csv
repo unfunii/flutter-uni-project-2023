@@ -1,0 +1,39 @@
+1,3,2,07:00,You wake up and it's a school day. The sun is shining and have a whole day ahead of you. Do you want to go to school today?,room.png
+2,1,39,07:05,You pretended to be sick and your mother fed you tasteless medicine all day. Try again?,sick.png
+3,5,4,07:20,Do you want to have a quick breakfast? You mom made you some cupcakes,mombreakfast.png
+4,6,8,07:35,You're a bit hungry but your school bus has arrived. Do you want to take the bus?,busmorning.png
+5,6,8,07:35,Your school bus has arrived. Do you want to take the bus?,busmorning.png
+6,9,7,07:55,You arrive at school. Do you want to attend your first class?,school_entry.png
+7,1,39,08:05,You missed an important class. Try again?,lateforschool.png
+8,11,10,08:05,You're late. School doors are already closed. Do you want to try break through?,school_entry_closed.png
+9,12,12,08:10,Do you want to actively participate in the class discussion?,class.png
+10,1,39,08:10,You couldn't get to class and missed important classes. Try again?,lateforschool.png
+11,1,39,08:10,The school security guard noticed you and sent you to the principal. Try again?,security.png
+12,13,14,12:00,It is lunchtime. Do you want to have lunch with your friends?,cafeteria.png
+13,15,14,12:10,Your friends invite you to hang out after school. Do you want to join them?,cafeteriafriends.png
+14,18,16,13:00,Lunch is over and have your afternoon classes left. Do you want to focus and do your best in your afternoon classes?,afternoonclass.png
+15,17,16,13:00,Lunch is over and have your afternoon classes left. Do you want to focus and do your best in your afternoon classes?,afternoonclass.png
+16,1,39,13:30,You struggled in your classes. Try again?,struggleinclass.png
+17,21,22,16:00,Classes are over. You and your friends came out of school and invited you to go to the cinema. Will you go?,friendsoutside.png
+18,19,20,16:00,Classes are over and you're going home. Do you want to take  the school bus?,busafter.png
+19,23,24,16:20,You're at home. Do you want to start your homework now?,homework.png
+20,23,24,16:40,You're at home. Do you want to start your homework now?,homework.png
+21,27,25,19:00,You just got home. You watched a new movie and had a lot of fun with your friends. Now its dinner time. Your mom cooked spaghetti for you. Do you want to eat it?,momdinner.png
+22,27,25,19:00,You just got home. Instead of cinema you and your friends went to the zoo and had a lot of fun. Now its dinner time. Your mom cooked spaghetti for you. Do you want to eat it?,momdinner.png
+23,26,25,19:00,You had a lot to do and you did it. Your mom cooked spaghetti for you. Do you want to eat it?,momdinner.png
+24,27,25,19:00,It's already dinner time. You mom cooked spaghetti for you. Do you want to eat it?,momdinner.png
+25,1,39,19:05,You decided to eat something else and your mom was offended because you didnt eat what she prepared for you. Try again?,momcrying.png
+26,29,30,20:00,The dinner was very delicious. Now you have free time. Do you want to watch movies?,homeworklate.png
+27,31,28,20:00,The dinner was very delicious. Now its time to do your homework. Do you want to?,homeworklate.png
+28,31,32,21:00,Its been an hour after dinner. You still have homework to do. Do you want to?,homework.png
+29,33,35,22:00,You rewatched one of your favorite movies. Now its time for bed. Do you want to go to sleep?,movie.png
+30,33,35,22:00,Instead of watching a movie you decided to play your favorite video game. Now it's time for bed. Do you want to go to sleep?,pc.png
+31,33,35,22:00,You finally finished your homework. Now its bed time. Do you want to go to sleep?,bed.png
+32,34,38,22:00,Do you want to do you homework now?,homeworklate.png
+33,39,39,22:20,Congratulations! You had a great day at school and get enough sleep for another good day tomorrow. Good night :),sleep.png
+34,36,37,00:00,You just finished your homework. Do you want to go to sleep?,bed.png
+35,36,37,00:00,It's already late. Do you want to go to sleep now?,latenight.png
+36,39,39,00:20,You're sleeping. You went to sleep a bit too late but that's okay :),sleep.png
+37,1,39,02:00,You went to bed very late and overslept school. Try again?,sleepgameover.png
+38,1,39,02:00,You fell asleep and didnt do your homework. Try again?,nohomework.png
+39,-1,-1,TY,THANK YOU FOR PLAYING MY GAME,lastscene.png
