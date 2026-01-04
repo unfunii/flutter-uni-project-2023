@@ -1,6 +1,6 @@
-# cw_up2156925
+# Flutter project
 
-A new Flutter project. This project was built and tested using Flutter 3.10.5 and Dart 3.0.5 to ensure compatibility with legacy packages from 2023.
+This project was built and tested using Flutter 3.10.5 and Dart 3.0.5 to ensure compatibility with legacy packages from 2023.
 
 ## Getting Started
 
